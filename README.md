@@ -1,6 +1,6 @@
 # definy-old
 
-昔の definy をCloudflare Workersで配信
+昔の definy をCloudflare Workersで配信 https://definy-old.narumincho.com/
 
 当時は Elm を使ってビルドしていたが, 再現するのが面倒なのでビルドしたものをそのまま含めた
 
